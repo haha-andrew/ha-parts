@@ -20,8 +20,8 @@ Universal,Cellular Module - Universal,3100000378,CELL-MOD-YF325,Cellular Module 
 DC-620ZS,Ad Screen Module - Max 620S,3101000010,AD-SCRN-620ZS-29IN,Ad Screen Module - Max 620S
 DC-1200Z,POS Conversion Kit - Ultra 1200,INTERNAL,POS-CONV-KIT-1200SC-TBC,POS Conversion Kit - Ultra 1200
 Universal,SIM Card VB - Universal,3100000335,SIM-B-US,SIM Card VB - Universal
-Universal,SIM Card VO - Universal,,SIM-O-US,SIM Card VO - Universal
-Universal,SIM Card VK - Universal,,SIM-K-US,SIM Card VK - Universal
+Universal,SIM Card VO - Universal,INTERNAL,SIM-OPT-US,SIM Card VO - Universal
+Universal,SIM Card VK - O - Universal,INTERNAL TEST,SIM-KORE-O-US,SIM Card VK - O - Universal
 All Single Door,Camera - Left - Single-Door Models,3100000234,CAM-SD-MAIN-R,Camera - Left - Single-Door Models
 All Single Door,Camera-  Right - Single-Door Models,3100000213,CAM-SD-AUX-L,Camera-  Right - Single-Door Models
 DC-1200Z,Camera - Right Door - Left - Ultra 1200,3100000218,CAM-1200Z-RD-MAIN-L,Camera - Right Door - Left - Ultra 1200
@@ -146,3 +146,4 @@ DD-550D,Full Cabinet Wrap - Freezer 550,REV.2605,WRAP-550,Full Cabinet Wrap - Fr
 DC-1200Z,Full Cabinet Wrap - Ultra 1200,REV.2605,WRAP-1200,Full Cabinet Wrap - Ultra 1200
 All Single Door Models,PAX Mounting Bracket - Single-Door Models,3401000104,BRKT-PAX-SD,PAX Mounting Bracket - Single-Door Models
 DC-542D,Divider - Pro 542 - V2,3402000177,DIVIDER-542D-V2,Divider - Pro 542 - V2
+Universal,SIM Card VK - TESTING - Universal,INTERNAL TEST,SIM-KORE-SUPER,SIM Card VK - TESTING - Universal
